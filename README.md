@@ -10,6 +10,23 @@
   <code><a href="https://www.hackerrank.com/1yavuzahmet/" title="HackerRank Profile"><img width="22" src="images/hackerrank.png">HackerRank </a></code>
   <code><a href="https://www.instagram.com/1yavuzahmet/" title="Instagram Profile"><img width="22" src="images/instagram.svg">Instagram</a></code>
 </h5>
+<hr>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br>
+
+<p align="center"><a href="#">
+  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
+  <code><img title="Java" height="25" src="images/java-original.svg"></code>
+  <code><img title="Spring" height="25" src="images/spring.svg"></code>
+  <code><img title="Linux" height="25" src="images/linux.svg"></code>
+  <code><img title="Git" height="25" src="images/git-original.svg"></code>
+  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
+  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+  </a>
+</p>
+<hr>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
