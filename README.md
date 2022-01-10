@@ -4,9 +4,10 @@
     <img src="https://readme-typing-svg.herokuapp.com?size=36&center=true&multiline=true&width=500&height=100&lines=Hello%2C+There!+%F0%9F%91%8B;Happy+to+see+you+%F0%9F%98%8A">
   </a>
 </h1>
+<h2 align="center">Contact Me With</h2>
 <h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/1yavuzahmet/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg">LinkedIn </a></code>
+  
+  <code><a href="https://www.linkedin.com/in/1yavuzahmet/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg">LinkedIn </a></code>
   <code><a href="https://www.hackerrank.com/1yavuzahmet/" title="HackerRank Profile"><img width="22" src="images/hackerrank.png">HackerRank </a></code>
   <code><a href="https://www.instagram.com/1yavuzahmet/" title="Instagram Profile"><img width="22" src="images/instagram.svg">Instagram</a></code>
 </h5>
