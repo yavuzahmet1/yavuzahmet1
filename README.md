@@ -12,7 +12,7 @@
   <code><a href="https://www.instagram.com/1yavuzahmet/" title="Instagram Profile"><img width="22" src="images/instagram.svg">Instagram</a></code>
 </h5>
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilitiess 🔥</h2>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 
 <p align="center"><a href="#">
