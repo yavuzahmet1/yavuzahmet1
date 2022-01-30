@@ -6,12 +6,16 @@
 </h1>
 <h2 align="center">Contact Me With</h2>
 <h5 align="center">
+- 🔭 I’m currently working on Hepsiemlak Java Spring Bootcamp<br>
+- 🌱 I’m currently learning Java Spring Boot Framework<br>
+- 🤔 I’m looking for help with Java Springboot.<br>
   
   <code><a href="https://www.linkedin.com/in/1yavuzahmet/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg">LinkedIn </a></code>
   <code><a href="https://www.hackerrank.com/1yavuzahmet/" title="HackerRank Profile"><img width="22" src="images/hackerrank.png">HackerRank </a></code>
   <code><a href="https://www.instagram.com/1yavuzahmet/" title="Instagram Profile"><img width="22" src="images/instagram.svg">Instagram</a></code>
 </h5>
 <hr>
+
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 
@@ -52,6 +56,7 @@
 <p align="center">
   <img alt="SuperBluestar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yavuzahmet1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </p>
+
 <br>
 <!--
 **yavuzahmet1/yavuzahmet1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
