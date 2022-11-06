@@ -2,7 +2,7 @@
 <h1 align="center">
   <a href="https://github.com/yavuzahmet1">
     <img src="https://readme-typing-svg.herokuapp.com?size=36&center=true&multiline=true&width=500&height=100&lines=Hello%2C+There!+%F0%9F%91%8B;Happy+to+see+you+%F0%9F%98%8A">
-    <img src="https://giphy.com/embed/26BGIqWh2R1fi6JDa" width="480" height="360">
+
   </a>
 </h1>
 <h2 align="center">Contact Me With</h2>
