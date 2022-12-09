@@ -9,9 +9,8 @@
 </h1>
 <h2 align="center">Contact Me With</h2>
 <h5 align="center">
-- 🔭 I’m currently working on Hepsiemlak Java Spring Bootcamp<br>
-- 🌱 I’m currently learning Java Spring Boot Framework<br>
-- 🤔 I’m looking for help with Java Springboot.<br><br>
+- 🔭 I’m currently working on Patika Java Spring Bootcamp<br>
+- 🌱 I’m currently learning Java Spring Boot Framework<br><br>
   
   <code><a href="https://www.linkedin.com/in/1yavuzahmet/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg">LinkedIn </a></code>
   <code><a href="https://www.hackerrank.com/1yavuzahmet/" title="HackerRank Profile"><img width="22" src="images/hackerrank.png">HackerRank </a></code>
