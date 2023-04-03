@@ -24,7 +24,7 @@
 <p align="center"><a href="#">
   <code><img title="C#" height="25" src="images/cSharp.svg"></code>
   <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="Javascript" height="25" src="Unofficial_JavaScript_logo_2.svg.png"></code>
+  <code><img title="Javascript" height="25" src="js.png"></code>
   <code><img title="Spring" height="25" src="images/spring.svg"></code>
   <code><img title="Linux" height="25" src="images/linux.svg"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
