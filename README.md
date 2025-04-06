@@ -18,7 +18,13 @@
 </h5>
 <hr>
 
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">🔥 Languages 🔥</h2>
+
+<h2 align="center">🔥 Frameworks🔥</h2>
+
+<h2 align="center">🔥Tools🔥</h2>
+
+<h2 align="center">🔥T Abilities 🔥</h2>
 <br>
 
 <hr>
