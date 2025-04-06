@@ -3,8 +3,6 @@
   <a href="https://github.com/yavuzahmet1">
     <img src="https://readme-typing-svg.herokuapp.com?size=36&center=true&multiline=true&width=500&height=100&lines=Hello%2C+There!+%F0%9F%91%8B;Happy+to+see+you+%F0%9F%98%8A">
 
-
-
   </a>
 </h1>
 <h2 align="center">Contact Me With</h2>
@@ -20,10 +18,12 @@
 
 <table>
   <tr>
-    <td><b>Programming Languages:</b></td>
+    <td><b>Programming and Markup Languages:</b></td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+      <img src="./images/javascript.svg" width="40" />
+      <img src="./images/typescript-icon.svg" width="40" />
+      <img src="./images/java.svg" width="40" />
+      <img src="./images/css-3.svg" width="40" />
       <br/>
       javascript • typescript 
     </td>
@@ -132,4 +132,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
