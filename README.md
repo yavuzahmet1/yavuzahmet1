@@ -34,7 +34,7 @@
 
 <table>
   <tr>
-    <td style="width:300px"><b>Frontend Technologies:</b></td>
+    <td  width="300"><b>Frontend Technologies:</b></td>
  <td>
   <table><tr>
 <td ><img style="padding-right:15px" src="./images/react.svg" width="40"/></td>
