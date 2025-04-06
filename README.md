@@ -20,7 +20,7 @@
 </style>
 <table>
   <tr>
-    <td><b>Programming and Markup Languages:</b></td>
+    <td width="300"><b>Programming and Markup Languages:</b></td>
  <td>
   <table><tr>
     <td ><img style="padding-right:15px" src="./images/javascript.svg" width="40"/></td>
@@ -34,7 +34,7 @@
 
 <table>
   <tr>
-    <td><b>Frontend Technologies:</b></td>
+    <td style="width:300px"><b>Frontend Technologies:</b></td>
  <td>
   <table><tr>
 <td ><img style="padding-right:15px" src="./images/react.svg" width="40"/></td>
