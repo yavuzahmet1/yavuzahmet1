@@ -109,17 +109,7 @@
 </td>
   </tr>
 </table>
-    <!-- <td ><img style="padding-right:15px" src="./images/react.svg" width="40"/></td>
-    <td ><img style="padding-right:15px" src="./images/nextjs-icon.svg" width="40"/></td>
-    <td ><img style="padding-right:15px" src="./images//redux.svg" width="40"/></td>
-    <td><img style="padding-right:15px" src="./images/material-ui.svg" width="40"/></td>
-    <td><img style="padding-right:15px" src="./images/bootstrap.svg" width="40"/></td>
-    <td><img style="padding-right:15px" src="./images/tailwindcss.svg" width="40"/></td>
-    -->
-<hr>
 
-<br>
-<hr>
 <h2 align="center">⚡ Status ⚡</h2>
 <br>
 <p align=center>
@@ -137,26 +127,3 @@
       <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzahmet1&theme=jolly&langs_count=8&layout=compact&hide_border=true" />
     </a>
   </div>
-<br><br><br><br><br><br>
-<h4 align="center">
-  <a href="https://github.com/yavuzahmet1?tab=repositories" title="Show Repositories">🔎 Show All Repositories 🔍</a>
-</h4>
-<p align="center">
-  <img alt="SuperBluestar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yavuzahmet1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-</p>
-
-<br>
-<!--
-**yavuzahmet1/yavuzahmet1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
