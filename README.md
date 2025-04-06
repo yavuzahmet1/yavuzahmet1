@@ -39,7 +39,7 @@
     <td ><img style="padding-right:15px" src="./images//redux.svg" width="40"/></td>
     <td><img style="padding-right:15px" src="./images/material-ui.svg" width="40"/></td>
     <td><img style="padding-right:15px" src="./images/bootstrap.svg" width="40"/></td>
-    <td><img style="padding-right:15px" src="./images/tailwindcss-icon.svg.svg" width="40"/></td>
+    <td><img style="padding-right:15px" src="./images/tailwindcss-icon.svg" width="40"/></td>
   </tr></table>
 </td>
   </tr>
