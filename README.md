@@ -31,15 +31,15 @@
 </td>
   </tr>
   <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-      <br/>
+    <td><b>Frontend Technologies</b></td>
+  <table><tr>
+    <td ><img class="tech-icon" src="./images/react.svg" width="40"/></td>
+    <td ><img class="tech-icon" src="./images/nextjs-icon.svg" width="40"/></td>
+    <td ><img class="tech-icon" src="./images//redux.svg" width="40"/></td>
+    <td><img class="tech-icon" src="./images/material-ui.svg" width="40"/></td>
+    <td><img class="tech-icon" src="./images/bootstrap.svg" width="40"/></td>
+    <td><img class="tech-icon" src="./images/tailwindcss.svg" width="40"/></td>
+  </tr></table>
     </td>
   </tr>
   <tr>
