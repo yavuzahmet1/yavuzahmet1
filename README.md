@@ -61,7 +61,9 @@
     <td  width="300"><b>Databases & ORMs:</b></td>
  <td>
   <table><tr>
-<td ><img style="padding-right:15px; height:40" src="./images/mongodb-icon.svg" width="40"/></td>
+<td style="width: 60px; height: 60px; display: flex; align-items: center; justify-content: center; background-color: #f0f0f0; border-radius: 8px;">
+  <img src="./images/mongodb-icon.svg" width="40" style="display: block;"/>
+</td>
     <td ><img style="padding-right:15px" src="./images/postgresql.svg" width="40"/></td>
     <td ><img style="padding-right:15px" src="./images/sequelize.svg" width="40"/></td>
      <td ><img style="padding-right:15px" src="./images/redis.svg" width="40"/></td>
