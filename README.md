@@ -30,64 +30,14 @@
   </tr></table>
 </td>
   </tr>
-   <br/>
-  <tr>
-    <td><b>Frontend Technologies</b></td>
-  <table><tr>
-    <td ><img class="tech-icon" src="./images/react.svg" width="40"/></td>
+</table>
+    <!-- <td ><img class="tech-icon" src="./images/react.svg" width="40"/></td>
     <td ><img class="tech-icon" src="./images/nextjs-icon.svg" width="40"/></td>
     <td ><img class="tech-icon" src="./images//redux.svg" width="40"/></td>
     <td><img class="tech-icon" src="./images/material-ui.svg" width="40"/></td>
     <td><img class="tech-icon" src="./images/bootstrap.svg" width="40"/></td>
     <td><img class="tech-icon" src="./images/tailwindcss.svg" width="40"/></td>
-   
-  </tr></table>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
-      <br/>
-    </td>
-  </tr>
-  <tr>
-  </tr>
-  <tr>
-    <td><b>Styling</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/styledcomponents/styledcomponents-original.svg" width="40" />
-      <br/>
-    </td>
-  </tr>
-  <tr>
-  </tr>
-  <tr>
-    <td><b>Database</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
-      <br/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Tools</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" />
-      <br/>
-    </td>
-  </tr>
-</table>
+    -->
 <hr>
 
 <br>
