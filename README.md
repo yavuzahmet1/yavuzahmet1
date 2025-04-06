@@ -15,7 +15,8 @@
   <code><a href="https://www.instagram.com/1yavuzahmet/" title="Instagram Profile"><img width="22" src="images/instagram.svg">Instagram</a></code>
 </h5>
 <hr>
-
+<h2 align="center">⚡ Technical Skills ⚡</h2>
+<br>
 <table>
   <tr>
     <td width="300"><b>Programming and Markup Languages:</b></td>
