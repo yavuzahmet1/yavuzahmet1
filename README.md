@@ -23,20 +23,36 @@
     <td><b>Programming and Markup Languages:</b></td>
  <td>
   <table><tr>
-    <td ><img class="tech-icon" src="./images/javascript.svg" width="40"/></td>
-    <td ><img class="tech-icon" src="./images/typescript-icon.svg" width="40"/></td>
-    <td ><img class="tech-icon" src="./images/java.svg" width="40"/></td>
-    <td><img class="tech-icon" src="./images/css-3.svg" width="40"/></td>
+    <td ><img style="padding-right:15px" src="./images/javascript.svg" width="40"/></td>
+    <td ><img style="padding-right:15px" src="./images/typescript-icon.svg" width="40"/></td>
+    <td ><img style="padding-right:15px" src="./images/java.svg" width="40"/></td>
+    <td><img style="padding-right:15px" src="./images/css-3.svg" width="40"/></td>
   </tr></table>
 </td>
   </tr>
 </table>
-    <!-- <td ><img class="tech-icon" src="./images/react.svg" width="40"/></td>
-    <td ><img class="tech-icon" src="./images/nextjs-icon.svg" width="40"/></td>
-    <td ><img class="tech-icon" src="./images//redux.svg" width="40"/></td>
-    <td><img class="tech-icon" src="./images/material-ui.svg" width="40"/></td>
-    <td><img class="tech-icon" src="./images/bootstrap.svg" width="40"/></td>
-    <td><img class="tech-icon" src="./images/tailwindcss.svg" width="40"/></td>
+<br/>
+<table>
+  <tr>
+    <td><b>Frontend Technologies:</b></td>
+ <td>
+  <table><tr>
+<td ><img style="padding-right:15px" src="./images/react.svg" width="40"/></td>
+    <td ><img style="padding-right:15px" src="./images/nextjs-icon.svg" width="40"/></td>
+    <td ><img style="padding-right:15px" src="./images//redux.svg" width="40"/></td>
+    <td><img style="padding-right:15px" src="./images/material-ui.svg" width="40"/></td>
+    <td><img style="padding-right:15px" src="./images/bootstrap.svg" width="40"/></td>
+    <td><img style="padding-right:15px" src="./images/tailwindcss.svg" width="40"/></td>
+  </tr></table>
+</td>
+  </tr>
+</table>
+    <!-- <td ><img style="padding-right:15px" src="./images/react.svg" width="40"/></td>
+    <td ><img style="padding-right:15px" src="./images/nextjs-icon.svg" width="40"/></td>
+    <td ><img style="padding-right:15px" src="./images//redux.svg" width="40"/></td>
+    <td><img style="padding-right:15px" src="./images/material-ui.svg" width="40"/></td>
+    <td><img style="padding-right:15px" src="./images/bootstrap.svg" width="40"/></td>
+    <td><img style="padding-right:15px" src="./images/tailwindcss.svg" width="40"/></td>
     -->
 <hr>
 
