@@ -47,6 +47,70 @@
 </td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td  width="300"><b>Backend Technologies:</b></td>
+ <td>
+  <table><tr>
+<td ><img style="padding-right:15px" src="./images/nodejs.svg" width="40"/></td>
+    <td ><img style="padding-right:15px" src="./images/express.svg" width="40"/></td>
+    <td ><img style="padding-right:15px" src="./images/spring-icon.svg" width="40"/></td>
+  </tr></table>
+</td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td  width="300"><b>Databases & ORMs:</b></td>
+ <td>
+  <table><tr>
+<td ><img style="padding-right:15px" src="./images/mongodb.svg" width="40"/></td>
+    <td ><img style="padding-right:15px" src="./images/postgresql.svg" width="40"/></td>
+    <td ><img style="padding-right:15px" src="./images/sequelize.svg" width="40"/></td>
+     <td ><img style="padding-right:15px" src="./images/redis.svg" width="40"/></td>
+  </tr></table>
+</td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td  width="300"><b>Development Tools:</b></td>
+ <td>
+  <table><tr>
+<td ><img style="padding-right:15px" src="./images/visual-studio-code.svg" width="40"/></td>
+    <td ><img style="padding-right:15px" src="./images/visual-studio.svg" width="40"/></td>
+    <td ><img style="padding-right:15px" src="./images/intellij-idea.svg" width="40"/></td>
+     <td ><img style="padding-right:15px" src="./images/postman.svg" width="40"/></td>
+  </tr></table>
+</td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td  width="300"><b>Version Control & Package Managers:</b></td>
+ <td>
+  <table><tr>
+<td ><img style="padding-right:15px" src="./images/git.svg" width="40"/></td>
+    <td ><img style="padding-right:15px" src="./images/github-icon.svg" width="40"/></td>
+    <td ><img style="padding-right:15px" src="./images/npm.svg" width="40"/></td>
+     <td ><img style="padding-right:15px" src="./images/pnpm.svg" width="40"/></td>
+  </tr></table>
+</td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td  width="300"><b>Operating Systems & DevOps & Deployment  :</b></td>
+ <td>
+  <table><tr>
+<td ><img style="padding-right:15px" src="./images/linux-tux.svg" width="40"/></td>
+    <td ><img style="padding-right:15px" src="./images/archlinux.svg" width="40"/></td>
+    <td ><img style="padding-right:15px" src="./images/docker.svg" width="40"/></td>
+    <td ><img style="padding-right:15px" src="./images/vercel.svg" width="40"/></td>
+  </tr></table>
+</td>
+  </tr>
+</table>
     <!-- <td ><img style="padding-right:15px" src="./images/react.svg" width="40"/></td>
     <td ><img style="padding-right:15px" src="./images/nextjs-icon.svg" width="40"/></td>
     <td ><img style="padding-right:15px" src="./images//redux.svg" width="40"/></td>
