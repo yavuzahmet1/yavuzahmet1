@@ -100,7 +100,7 @@
 </table>
 <table>
   <tr>
-    <td  width="300"><b>Operating Systems & DevOps & Deployment  :</b></td>
+    <td  width="300"><b>Operating Systems & DevOps & Deployment:</b></td>
  <td>
   <table><tr>
 <td ><img style="padding-right:15px" src="./images/linux-tux.svg" width="40"/></td>
