@@ -38,7 +38,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
       <br/>
-      react.js • next.js • redux • html • css • javaScript 
     </td>
   </tr>
   <tr>
@@ -47,7 +46,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
       <br/>
-      node.js • express.js 
     </td>
   </tr>
   <tr>
@@ -62,7 +60,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/styledcomponents/styledcomponents-original.svg" width="40" />
       <br/>
-      css • sass • tailwind • materialUI • bootstrap • styled-components
     </td>
   </tr>
   <tr>
@@ -75,7 +72,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
       <br/>
-      SQLite • sequelize • mongoDB • postgreSQL
     </td>
   </tr>
   <tr>
@@ -85,7 +81,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" />
       <br/>
-      webstorm • vscode • git • npm • 
     </td>
   </tr>
 </table>
