@@ -39,6 +39,7 @@
     <td><img class="tech-icon" src="./images/material-ui.svg" width="40"/></td>
     <td><img class="tech-icon" src="./images/bootstrap.svg" width="40"/></td>
     <td><img class="tech-icon" src="./images/tailwindcss.svg" width="40"/></td>
+    <br/>
   </tr></table>
     </td>
   </tr>
