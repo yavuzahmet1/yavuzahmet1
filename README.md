@@ -21,6 +21,7 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 
+<hr>
 <p align="center"><a href="#">
   <code><img title="C#" height="25" src="images/cSharp.svg"></code>
   <code><img title="Java" height="25" src="images/java-original.svg"></code>
