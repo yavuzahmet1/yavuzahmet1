@@ -31,7 +31,7 @@
 </td>
   </tr>
 </table>
-<br/>
+
 <table>
   <tr>
     <td><b>Frontend Technologies:</b></td>
