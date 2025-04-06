@@ -18,33 +18,77 @@
 </h5>
 <hr>
 
-<h2 align="center">🔥 Languages 🔥</h2>
-<br>
-<p align="center"><a href="#">
-<code><img title="C#" height="25" src="images/cSharp.svg"></code>
-<code><img title="Java" height="25" src="images/java-original.svg"></code>
-<code><img title="Javascript" height="25" src="images/js-seek.svg"></code>
- </a>
-
-<h2 align="center">🔥 Frameworks🔥</h2>
-<br>
-<p align="center"><a href="#">
-<code><img title="Spring" height="25" src="images/spring.svg"></code>
-   </a>
-<h2 align="center">🔥Tools🔥</h2>
-  <br>
-  <p align="center"><a href="#">
-<code><img title="Linux" height="25" src="images/linux.svg"></code>
-<code><img title="Git" height="25" src="images/git-original.svg"></code>
-<code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-<code><img title="GitHub" height="25" src="images/github.svg"></code>
-     </a>
-<h2 align="center">🔥 Databases 🔥</h2>
-<br>
-<p align="center"><a href="#">
-<code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-<code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-   </a>
+<table>
+  <tr>
+    <td><b>Programming Languages:</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+      <br/>
+      javascript • typescript 
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+      <br/>
+      react.js • next.js • redux • html • css • javaScript 
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
+      <br/>
+      node.js • express.js 
+    </td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+    <td><b>Styling</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/styledcomponents/styledcomponents-original.svg" width="40" />
+      <br/>
+      css • sass • tailwind • materialUI • bootstrap • styled-components
+    </td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+    <td><b>Database</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+      <br/>
+      SQLite • sequelize • mongoDB • postgreSQL
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" />
+      <br/>
+      webstorm • vscode • git • npm • 
+    </td>
+  </tr>
+</table>
 <hr>
 
 <br>
