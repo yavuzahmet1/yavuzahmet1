@@ -23,7 +23,9 @@
       <img src="./images/javascript.svg" width="40" />
       <br/>
       <img src="./images/typescript-icon.svg" width="40" />
+      <br/>
       <img src="./images/java.svg" width="40" />
+      <br/>
       <img src="./images/css-3.svg" width="40" />
       <br/>
     </td>
