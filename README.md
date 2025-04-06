@@ -19,13 +19,12 @@
 <table>
   <tr>
     <td><b>Programming and Markup Languages:</b></td>
-    <td>
-      <img src="./images/javascript.svg" width="40" />
-      <img src="./images/typescript-icon.svg" width="40" />
-      <img src="./images/java.svg" width="40" />
-      <img src="./images/css-3.svg" width="40" />
-      <br/>
-    </td>
+  <td>
+  <img src="./images/javascript.svg" width="40" style="margin-right:15px"/>
+  <img src="./images/typescript-icon.svg" width="40" style="margin-right:15px"/>
+  <img src="./images/java.svg" width="40" style="margin-right:15px"/>
+  <img src="./images/css-3.svg" width="40"/>
+</td>
   </tr>
   <tr>
     <td><b>Frontend</b></td>
