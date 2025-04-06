@@ -19,13 +19,17 @@
 <hr>
 
 <h2 align="center">🔥 Languages 🔥</h2>
+<br>
+<code><img title="C#" height="25" src="images/cSharp.svg"></code>
+<code><img title="Java" height="25" src="images/java-original.svg"></code>
+<code><img title="Javascript" height="25" src="images/js-seek.svg"></code>
 
 <h2 align="center">🔥 Frameworks🔥</h2>
 
 <h2 align="center">🔥Tools🔥</h2>
 
 <h2 align="center">🔥T Abilities 🔥</h2>
-<br>
+
 
 <hr>
 <p align="center"><a href="#">
