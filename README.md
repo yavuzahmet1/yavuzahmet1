@@ -34,6 +34,7 @@
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   </a>
 </p>
+<br>
 <hr>
 <h2 align="center">⚡ Status ⚡</h2>
 <br>
