@@ -16,7 +16,6 @@
 </h5>
 <hr>
 <h2 align="center">⚡ Technical Skills ⚡</h2>
-<br>
 <table>
   <tr>
     <td width="300"><b>Programming and Markup Languages:</b></td>
@@ -30,7 +29,6 @@
 </td>
   </tr>
 </table>
-
 <table>
   <tr>
     <td  width="300"><b>Frontend Technologies:</b></td>
@@ -110,9 +108,7 @@
 </td>
   </tr>
 </table>
-
 <h2 align="center">⚡ Status ⚡</h2>
-<br>
 <p align=center>
   <div align=center>
     <a href="https://github-readme-streak-stats.herokuapp.com/?user=yavuzahmet1&theme=jolly&hide_border=true" title="Open in new tab">
@@ -122,7 +118,6 @@
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=yavuzahmet1&show_icons=true&theme=jolly&hide_border=true" />
     </a>
   </div>
-  <br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzahmet1&theme=jolly&langs_count=8&layout=compact&hide_border=true" title="Open in new tab">
       <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzahmet1&theme=jolly&langs_count=8&layout=compact&hide_border=true" />
