@@ -23,12 +23,10 @@
     <td><b>Programming and Markup Languages:</b></td>
  <td>
   <table><tr>
-  
-  <img class="tech-icon" src="./images/javascript.svg" width="40"/>
-  <img class="tech-icon" src="./images/typescript-icon.svg" width="40"/>
-  <img class="tech-icon" src="./images/java.svg" width="40"/>
-  <img src="./images/css-3.svg" width="40"/>
-
+    <td ><img class="tech-icon" src="./images/javascript.svg" width="40"/></td>
+    <td ><img class="tech-icon" src="./images/typescript-icon.svg" width="40"/></td>
+    <td ><img class="tech-icon" src="./images/java.svg" width="40"/></td>
+    <td><img class="tech-icon" src="./images/css-3.svg" width="40"/></td>
   </tr></table>
 </td>
   </tr>
