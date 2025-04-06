@@ -20,31 +20,33 @@
 
 <h2 align="center">🔥 Languages 🔥</h2>
 <br>
+<p align="center"><a href="#">
 <code><img title="C#" height="25" src="images/cSharp.svg"></code>
 <code><img title="Java" height="25" src="images/java-original.svg"></code>
 <code><img title="Javascript" height="25" src="images/js-seek.svg"></code>
+ </a>
 
 <h2 align="center">🔥 Frameworks🔥</h2>
-
-<h2 align="center">🔥Tools🔥</h2>
-
-<h2 align="center">🔥T Abilities 🔥</h2>
-
-
-<hr>
+<br>
 <p align="center"><a href="#">
-  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="Javascript" height="25" src="images/js-seek.svg"></code>
-  <code><img title="Spring" height="25" src="images/spring.svg"></code>
-  <code><img title="Linux" height="25" src="images/linux.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  </a>
-</p>
+<code><img title="Spring" height="25" src="images/spring.svg"></code>
+   </a>
+<h2 align="center">🔥Tools🔥</h2>
+  <br>
+  <p align="center"><a href="#">
+<code><img title="Linux" height="25" src="images/linux.svg"></code>
+<code><img title="Git" height="25" src="images/git-original.svg"></code>
+<code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
+<code><img title="GitHub" height="25" src="images/github.svg"></code>
+     </a>
+<h2 align="center">🔥 Databases 🔥</h2>
+<br>
+<p align="center"><a href="#">
+<code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
+<code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+   </a>
+<hr>
+
 <br>
 <hr>
 <h2 align="center">⚡ Status ⚡</h2>
