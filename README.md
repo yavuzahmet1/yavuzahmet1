@@ -5,15 +5,7 @@
 
   </a>
 </h1>
-<h2 align="center">Contact Me With</h2>
-<h5 align="center">
-- 🔭 I continue my fullstack education in the Clarusway course.<br>
-- 🌱 I completed my Java Spring Boot Framework training and working on Patika Java Spring Bootcamp<br><br>
-  
-  <code><a href="https://www.linkedin.com/in/1yavuzahmet/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg">LinkedIn </a></code>
-  <code><a href="https://www.hackerrank.com/1yavuzahmet/" title="HackerRank Profile"><img width="22" src="images/hackerrank.png">HackerRank </a></code>
-  <code><a href="https://www.instagram.com/1yavuzahmet/" title="Instagram Profile"><img width="22" src="images/instagram.svg">Instagram</a></code>
-</h5>
+
 <hr>
 <h2 align="center">⚡ Technical Skills ⚡</h2>
 <table>
