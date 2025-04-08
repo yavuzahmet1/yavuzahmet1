@@ -5,6 +5,9 @@
   </a>
 </h1>
 
+🚀 Full-Stack Developer
+Passionate about crafting seamless digital experiences with JavaScript/TypeScript, React/Next.js, and Node.js/Spring. Expert in database design (MongoDB, PostgreSQL), DevOps (Docker, Linux), and clean code practices. Leveraging tools like VS Code, Git, and Redis to build scalable, performant applications. Always learning, always shipping.
+
 <h2 align="center">⚡ Technical Skills ⚡</h2>
 <table>
   <tr>
