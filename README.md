@@ -62,6 +62,7 @@ Passionate about crafting seamless digital experiences with JavaScript/TypeScrip
 </td>
   </tr>
 </table>
+<table>
   <tr>
     <td  width="300"><b>Operating Systems & DevOps & Deployment:</b></td>
  <td>
@@ -76,6 +77,7 @@ Passionate about crafting seamless digital experiences with JavaScript/TypeScrip
 </td>
   </tr>
 </table>
+
 <h2 align="center">⚡ Status ⚡</h2>
 <p align=center>
   <div align=center>
