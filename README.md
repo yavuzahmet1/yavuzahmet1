@@ -57,6 +57,7 @@ Passionate about crafting seamless digital experiences with JavaScript/TypeScrip
     <td ><img style="padding-right:15px" src="./images/mongodb-icon.svg" width="40" height="40"/></td>
     <td ><img style="padding-right:15px" src="./images/postgresql.svg" width="40"/></td>
     <td ><img style="padding-right:15px" src="./images/sequelize.svg" width="40"/></td>
+    <td ><img style="padding-right:15px" src="./images/prisma-original-wordmark.svg" width="40"/></td>
      <td ><img style="padding-right:15px" src="./images/redis.svg" width="40"/></td>
   </tr></table>
 </td>
