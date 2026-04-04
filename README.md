@@ -44,7 +44,7 @@ Passionate about crafting seamless digital experiences with JavaScript/TypeScrip
  <td>
   <table><tr>
 <td ><img style="padding-right:15px" src="./images/nodejs.svg" width="40"/></td>
-    <td ><img style="padding-right:15px" src="./images/express.svg" width="40"/></td>
+    <td ><img style="padding-right:15px" src="./images/ExpressJS-Dark.svg" width="40"/></td>
     <td ><img style="padding-right:15px" src="./images/expressjs-light.svg" width="40"/></td>
     <td ><img style="padding-right:15px" src="./images/spring-icon.svg" width="40"/></td>
   </tr></table>
@@ -61,7 +61,7 @@ Passionate about crafting seamless digital experiences with JavaScript/TypeScrip
     <td ><img style="padding-right:15px" src="./images/mysql.svg" width="40"/></td>
     <td ><img style="padding-right:15px" src="./images/firebase.svg" width="40"/></td>
     <td ><img style="padding-right:15px" src="./images/sequelize.svg" width="40"/></td>
-    <td ><img style="padding-right:15px" src="./images/prisma-original-wordmark.svg" width="40"/></td>
+    <td ><img style="padding-right:15px" src="./images/Prisma.svg" width="40"/></td>
      <td ><img style="padding-right:15px" src="./images/redis.svg" width="40"/></td>
   </tr></table>
 </td>
@@ -75,9 +75,9 @@ Passionate about crafting seamless digital experiences with JavaScript/TypeScrip
 <td ><img style="padding-right:15px" src="./images/linux-tux.svg" width="40"/></td>
     <td ><img style="padding-right:15px" src="./images/archlinux.svg" width="40"/></td>
     <td ><img style="padding-right:15px" src="./images/docker.svg" width="40"/></td>
-    <td ><img style="padding-right:15px" src="./images/vercel.svg" width="40"/></td>
-    <td ><img style="padding-right:15px" src="./images/github-icon.svg" width="40"/></td>
-    <td ><img style="padding-right:15px" src="./images/git.svg" width="40"/></td>
+    <td ><img style="padding-right:15px" src="./images/Vercel-Dark.svg" width="40"/></td>
+    <td ><img style="padding-right:15px" src="./images/Github-Dark.svg" width="40"/></td>
+    <td ><img style="padding-right:15px" src="./images/Git.svg" width="40"/></td>
   </tr></table>
 </td>
   </tr>
