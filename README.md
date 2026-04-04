@@ -27,7 +27,8 @@ Passionate about crafting seamless digital experiences with JavaScript/TypeScrip
     <td  width="300"><b>Frontend Technologies:</b></td>
  <td>
   <table><tr>
-<td ><img style="padding-right:15px" src="./images/react.svg" width="40"/></td>
+    <td ><img style="padding-right:15px" src="./images/react.svg" width="40"/></td>
+    <td><img style="padding-right:15px" src="./images/Angular-Dark.svg" width="40"/></td>
     <td ><img style="padding-right:15px" src="./images/nextjs-icon.svg" width="40"/></td>
     <td ><img style="padding-right:15px" src="./images//redux.svg" width="40"/></td>
     <td><img style="padding-right:15px" src="./images/material-ui.svg" width="40"/></td>
