@@ -45,7 +45,6 @@ Passionate about crafting seamless digital experiences with JavaScript/TypeScrip
   <table><tr>
 <td ><img style="padding-right:15px" src="./images/nodejs.svg" width="40"/></td>
     <td ><img style="padding-right:15px" src="./images/ExpressJS-Dark.svg" width="40"/></td>
-    <td ><img style="padding-right:15px" src="./images/expressjs-light.svg" width="40"/></td>
     <td ><img style="padding-right:15px" src="./images/spring-icon.svg" width="40"/></td>
   </tr></table>
 </td>
