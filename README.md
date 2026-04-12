@@ -5,8 +5,14 @@
   </a>
 </h1>
 
-🚀 Full-Stack Developer
-Passionate about crafting seamless digital experiences with JavaScript/TypeScript, React/Next.js, and Node.js/Spring. Expert in database design (MongoDB, PostgreSQL), DevOps (Docker, Linux), and clean code practices. Leveraging tools like VS Code, Git, and Redis to build scalable, performant applications. Always learning, always shipping.
+### 🚀 Hi, I'm Ahmet! (Full-Stack Developer)
+
+Passionate about crafting user-friendly digital experiences and building scalable, performant applications. I love bridging the gap between elegant frontends and robust backends.
+
+- 🔭 **Currently working on:** [Kind Hands](https://kind-hands.vercel.app/)
+- 🌱 **Currently learning:** [Book Share (Spring Boot & Angular)](https://github.com/yavuzahmet1/book-share-springboot-angular)
+- ⚡ **Focusing on:** Clean code architecture, React/Next.js ecosystems, and Spring/Node.js backends.
+- 💬 **Ask me about:** JavaScript/TypeScript, Database Design (SQL/NoSQL), and Docker.
 
 <h2 align="center">⚡ Technical Skills ⚡</h2>
 <table>
