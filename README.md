@@ -19,12 +19,12 @@
 
 ### 🚀 Hi, I'm Ahmet! (Full-Stack Developer)
 
-Passionate about crafting user-friendly digital experiences and building scalable, performant applications. I love bridging the gap between elegant frontends and robust backends.
+Passionate about crafting user-friendly digital experiences and building scalable, performant applications. I love bridging the gap between elegant frontends and robust backends, now expanding into enterprise systems.
 
 - 🔭 **Currently working on:** [Kind Hands](https://kind-hands.vercel.app/) — *A modern web platform connecting communities.*
 - 🌱 **Currently learning:** [TalkFlow](https://github.com/yavuzahmet1/TalkFlow) — *A real-time chat application built with Spring Boot, Angular, Keycloak, and WebSockets.*
-- ⚡ **Focusing on:** Clean code architecture, React/Next.js ecosystems, and Spring/Node.js backends.
-- 💬 **Ask me about:** JavaScript/TypeScript, Database Design (SQL/NoSQL), and Docker.
+- ⚡ **Focusing on:** Clean code architecture, React/Next.js ecosystems, Spring/Node.js backends, and **SAP ABAP / S/4HANA**.
+- 💬 **Ask me about:** JavaScript/TypeScript, Database Design (SQL/NoSQL), Docker, and **SAP ABAP / S/4HANA**.
 
 ---
 
@@ -38,6 +38,13 @@ Passionate about crafting user-friendly digital experiences and building scalabl
   </a>
   <br><br>
   
+  <p><b>Enterprise & SAP Technologies</b></p>
+  <a href="https://github.com/yavuzahmet1">
+    <img src="https://img.shields.io/badge/SAP_ABAP-0081CB?style=for-the-badge&logo=sap&logoColor=white" alt="SAP ABAP" />
+    <img src="https://img.shields.io/badge/SAP_S%2F4HANA-0081CB?style=for-the-badge&logo=sap&logoColor=white" alt="SAP S/4HANA" />
+  </a>
+  <br><br>
+
   <p><b>Frontend Technologies</b></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,angular,nextjs,redux,mui,bootstrap,tailwind" />
@@ -68,7 +75,7 @@ Passionate about crafting user-friendly digital experiences and building scalabl
 <h2 align="center">⚡ Status & Stats ⚡</h2>
 
 <div align="center">
-  <a href="https://github.com/yavuzahmet1">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yavuzahmet1&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-  </a>
+  
+[![Streak Stats](https://streak-stats.demolab.com?user=yavuzahmet1&theme=tokyonight&hide_border=true)](https://github.com/yavuzahmet1)
+
 </div>
