@@ -17,13 +17,14 @@
 
 ---
 
-### 🚀 Hi, I'm Ahmet! (Full-Stack Developer)
+### 🚀 Hi, I'm Ahmet! (Full-Stack & SAP ABAP Developer)
 
-Passionate about crafting user-friendly digital experiences and building scalable, performant applications. I love bridging the gap between elegant frontends and robust backends, now expanding into enterprise systems.
+Passionate about crafting user-friendly digital experiences and building scalable, performant applications. I love bridging the gap between elegant frontends and robust backends, and I am currently actively expanding my expertise into enterprise systems and SAP technologies.
 
 - 🔭 **Currently working on:** [Kind Hands](https://kind-hands.vercel.app/) — *A modern web platform connecting communities.*
-- 🌱 **Currently learning:** [TalkFlow](https://github.com/yavuzahmet1/TalkFlow) — *A real-time chat application built with Spring Boot, Angular, Keycloak, and WebSockets.*
-- ⚡ **Focusing on:** Clean code architecture, React/Next.js ecosystems, Spring/Node.js backends, and **SAP ABAP / S/4HANA**.
+- 🏆 **Recently completed:** [TalkFlow](https://github.com/yavuzahmet1/TalkFlow) — *A real-time chat application built with Spring Boot, Angular, Keycloak, and WebSockets.*
+- 🌱 **Currently learning & exploring:** Advanced **SAP ABAP, S/4HANA**, CDS Views, and OData Services.
+- ⚡ **Focusing on:** Clean code architecture, React/Next.js ecosystems, Spring/Node.js backends, and enterprise-level SAP solutions.
 - 💬 **Ask me about:** JavaScript/TypeScript, Database Design (SQL/NoSQL), Docker, and **SAP ABAP / S/4HANA**.
 
 ---
